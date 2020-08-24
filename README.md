@@ -37,10 +37,8 @@
 <br />
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
+  <summary>:zap: Github Stats</summary>
 
-<!--END_SECTION:activity-->
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
