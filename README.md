@@ -36,3 +36,6 @@
 
  ![Gabrielli's github stats](https://github-readme-stats.vercel.app/api?username=AlexandreGabrielli&show_icons=true&theme=radical&count_private=true&show_icons=true)
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreGabrielli&repo=github-readme-stats)](https://github.com/AlexandreGabrielli/github-readme-stats)
+
