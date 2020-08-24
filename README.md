@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexandreGabrielli)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently lokking for work ...
@@ -38,6 +37,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="gabrielli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlexandreGabrielli&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexandreGabrielli&show_icons=true&theme=radical" />
 
 </details>
