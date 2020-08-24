@@ -34,8 +34,5 @@
 <br />
 <br />
 
-<details>
-  <summary> Github Stats</summary>
-  [![Gabrielli's github stats] (https://github-readme-stats.vercel.app/api?username=AlexandreGabrielli&show_icons=true&theme=radical)]
+  [![Gabrielli's github stats](https://github-readme-stats.vercel.app/api?username=AlexandreGabrielli&show_icons=true&theme=radical)]
 
-</details>
