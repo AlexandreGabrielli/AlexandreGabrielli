@@ -1,4 +1,4 @@
-[![bg][banner]]
+![bg][banner]
 
 ### Hi there 👋
 
