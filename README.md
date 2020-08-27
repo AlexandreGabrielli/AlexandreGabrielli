@@ -1,6 +1,5 @@
 ![bg][banner]
 
-[![HitCount](http://hits.dwyl.com/AlexandreGabrielli/AlexandreGabrielli.svg)](http://hits.dwyl.com/AlexandreGabrielli/AlexandreGabrielli)
 
 ### Hi there 👋
 
@@ -43,4 +42,8 @@
 
 
 [banner]: https://raw.githubusercontent.com/AlexandreGabrielli/AlexandreGabrielli/master/banner.png
+
+
+[![HitCount](http://hits.dwyl.com/AlexandreGabrielli/AlexandreGabrielli.svg)](http://hits.dwyl.com/AlexandreGabrielli/AlexandreGabrielli)
+
 
