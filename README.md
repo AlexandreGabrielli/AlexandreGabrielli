@@ -1,5 +1,7 @@
 ![bg][banner]
 
+[![HitCount](http://hits.dwyl.com/AlexandreGabrielli/AlexandreGabrielli.svg)](http://hits.dwyl.com/AlexandreGabrielli/AlexandreGabrielli)
+
 ### Hi there 👋
 
 
