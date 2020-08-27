@@ -43,7 +43,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitLab" width="26px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/155/thumb_bigger_formation-gitlab.png" />
 <br />
-
+<br />
+<br />
+<br />
+<br />
 <img align="left" alt="Travis" width="26px" src="https://camo.githubusercontent.com/ea6828045b2dcd9770732d272586c5567bedfef3/687474703a2f2f61626f75742e7472617669732d63692e6f72672f696d616765732f7472617669732d6d6173636f742d32303070782e706e67" />
 
 
