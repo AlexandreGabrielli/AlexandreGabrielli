@@ -39,6 +39,9 @@
 
 ###  Github Stats :
 
+ ![Gabrielli's github stats](https://github-readme-stats.vercel.app/api?username=AlexandreGabrielli&show_icons=true&theme=radical&count_private=true)
+
+
 [![HitCount](http://hits.dwyl.com/AlexandreGabrielli/AlexandreGabrielli.svg)](http://hits.dwyl.com/AlexandreGabrielli/AlexandreGabrielli)
 
 
