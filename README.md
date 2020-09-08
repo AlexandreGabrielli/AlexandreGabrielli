@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently looking for work h.glass
+- 🔭 I’m currently looking for work <img align="left" alt="MySQL" width="26px" src="https://h.glass/wp-content/themes/bwap-theme/images/logo_full.svg" />
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
