@@ -68,6 +68,7 @@
 
 
 [![HitCount](http://hits.dwyl.com/AlexandreGabrielli/AlexandreGabrielli.svg)](http://hits.dwyl.com/AlexandreGabrielli/AlexandreGabrielli)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGabrielli=compact&hide=html" alt="mbonjour" />
 
 
 [banner]: https://raw.githubusercontent.com/AlexandreGabrielli/AlexandreGabrielli/master/banner.png
