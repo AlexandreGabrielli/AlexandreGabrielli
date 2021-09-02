@@ -17,6 +17,9 @@
 -->
 ### Languages and Tools:
 
+
+<img align="left" alt="c" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fc-original-logo%2F146611&psig=AOvVaw1zMvvqp48HwHDroGW8zWEj&ust=1630667600921000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDKmquU4PICFQAAAAAdAAAAABAD" />
+
 <img align="left" alt="docker" width="26px" src="https://d31ezp3r8jwmks.cloudfront.net/P4LMkQbCoYdT6NiE8ZjETEbw" />
 <img align="left" alt="traefik" width="26px" src="https://i.pinimg.com/originals/40/3a/43/403a439d1e6839e167e9e5a3f54044d0.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
