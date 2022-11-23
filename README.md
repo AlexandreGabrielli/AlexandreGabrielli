@@ -4,7 +4,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working for [<img alt="MySQL" width="70px" src="https://h.glass/wp-content/themes/bwap-theme/images/logo_full.svg" />](https://h.glass/)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
